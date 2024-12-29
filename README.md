@@ -1,4 +1,4 @@
-<h3 align="center"> ✍️ Quote of the Day!! </h3>
+<h3 align="left"> ✍️ Quote of the Day!! </h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" /> 
 </p>
