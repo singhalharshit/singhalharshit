@@ -10,7 +10,7 @@
 - 🔭 Engineer - [Indus Valley Partners](https://www.ivp.in/)
 - 👨‍💻 Ramping Mono to Micro
 - ⚡ Proficiency - **Python, AWS Lambda, CloudWatch, EventBridge, S3, DynanoDB, SQL, DevOps and much more**
-- 📫 Reach me [Instagram](https://www.instagram.com/that__engineer__guy/) or [LinekdIn](https://www.linkedin.com/in/harshit-singhal-12a244168/)
+- 📫 Actively Active on [Instagram](https://www.instagram.com/that__engineer__guy/) or [LinekdIn](https://www.linkedin.com/in/harshit-singhal-12a244168/)
 - 🌱 Growing myself, one branch at a time
 
 
