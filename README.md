@@ -5,7 +5,7 @@
 
 <h1 align="left">Hi, Welcome to my World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
-**`Tech Maverick (Backend Developer | Data Enthusiast | Gadget Geek)`**
+**`Tech Maverick (Backend Developer | Data Enthusiast | Tech Geek)`**
 ## 💫 About Me:
 - 🔭 Engineer - [Indus Valley Partners](https://www.ivp.in/)
 - 👨‍💻 Ramping Mono to Micro
