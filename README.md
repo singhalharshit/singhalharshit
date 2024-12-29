@@ -1,3 +1,8 @@
+<p align="center">
+  <h3> ✍️ Quote of the Day!! </h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" /> 
+</p>
+
 <h1 align="left">Hi, Welcome to my World <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
 **`Tech Maverick (Backend Developer | Data Enthusiast | Gadget Geek)`**
@@ -130,18 +135,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=singhalharshit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-### 📺 Latest YouTube Videos
-
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=singhalharshit&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=singhalharshit&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ### 📺 Latest YouTube Videos -->
